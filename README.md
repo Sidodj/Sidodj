@@ -1,4 +1,5 @@
-## 👋 Hi, I'm Vlad
+# 👋 Hi, I'm Vlad
+## 🔍 Data Analyst
 I am genuinely interested in working with data, analyzing trends, and translating complex information into clear, actionable insights.
 
 My technical toolkit includes practical experience with:
