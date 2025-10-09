@@ -1,5 +1,14 @@
-## Hi there 👋
+## 👋 Hi, I'm Vlad
+I am genuinely interested in working with data, analyzing trends, and translating complex information into clear, actionable insights.
 
+My technical toolkit includes practical experience with:
+
+* **Data Retrieval (SQL):** Hands-on practice using **PostgreSQL** for fundamental data querying, manipulation, and schema understanding.
+* **Visualization:** Ability to transform analytical results into engaging and understandable visuals using **Tableau**.
+* **Data Processing:** Proficient use of **Google Sheets / Microsoft Excel** for cleaning, organizing, and summarizing raw data.
+* **Modern Efficiency:** Utilizing **AI assistants (Gemini, ChatGPT)** to significantly enhance code troubleshooting, research speed, and workflow efficiency.
+
+I am eager to contribute my growing analytical skills to a professional team environment.
 <!--
 **Sidodj/Sidodj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
