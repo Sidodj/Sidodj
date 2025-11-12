@@ -5,7 +5,7 @@ I am genuinely interested in working with data, analyzing trends, and translatin
 My technical toolkit includes practical experience with:
 
 * **Data Retrieval (SQL):** Hands-on practice using **PostgreSQL** for fundamental data querying, manipulation, and schema understanding.
-* **Visualization:** Ability to transform analytical results into engaging and understandable visuals using **Tableau**.
+* **Visualization:** Ability to transform analytical results into engaging and understandable visuals using **Tableau** and **Google Sheets**.
 * **Data Processing:** Proficient use of **Google Sheets / Microsoft Excel** for cleaning, organizing, and summarizing raw data.
 * **Modern Efficiency:** Utilizing **AI assistants (Gemini, ChatGPT)** to significantly enhance code troubleshooting, research speed, and workflow efficiency.
 
